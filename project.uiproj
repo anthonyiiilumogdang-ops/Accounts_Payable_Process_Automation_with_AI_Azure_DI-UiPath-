@@ -1,0 +1,6 @@
+{
+  "Name": "AP_Invoice_Automation_UiPath",
+  "ProjectType": "Process",
+  "Description": "AP Invoice Automation using REFramework and Azure Document Intelligence",
+  "MainFile": "Main.xaml"
+}
